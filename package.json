@@ -1,0 +1,16 @@
+{
+  "name": "suw16",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "*",
+    "bootstrap": "^3.3.7",
+    "compression": "*",
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "gulp": "*",
+    "gulp-clean-css": "*",
+    "gulp-less": "*",
+    "serve-favicon": "*"
+  }
+}
