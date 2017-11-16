@@ -13,7 +13,7 @@ module.exports = function() {
     },
     Server: {
       webroot: 'www',
-      port: 3000
+      port: 3001
     },
     LessWatch: {
       paths: {
