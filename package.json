@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "body-parser": "*",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.0.0",
     "compression": "*",
     "cookie-parser": "*",
     "debug": "*",
